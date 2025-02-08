@@ -1,5 +1,4 @@
 # POMAssignment
-# POMAssignment
 
 This repository contains a Selenium automation project using the Page Object Model (POM) pattern in Java.
 
